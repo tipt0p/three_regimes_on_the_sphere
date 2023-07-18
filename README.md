@@ -1,11 +1,12 @@
 ## Training Scale-Invariant Neural Networks on the Sphere Can Happen in Three Regimes
 
 This repo contains the official PyTorch implementation of the NeurIPS'22 paper  
+
 **Training Scale-Invariant Neural Networks on the Sphere Can Happen in Three Regimes**  
-by [Maxim Kodryan*](https://scholar.google.com/citations?user=BGVWciMAAAAJ&hl=en), 
-[Ekaterina Lobacheva*](https://tipt0p.github.io/), 
-[Maksim Nakhodnov*](https://www.linkedin.com/in/nakhodnov17/?originalSubdomain=ru),
-and [Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en)
+[Maxim Kodryan](https://scholar.google.com/citations?user=BGVWciMAAAAJ&hl=en)\*, 
+[Ekaterina Lobacheva](https://tipt0p.github.io/)\*, 
+[Maksim Nakhodnov](https://www.linkedin.com/in/nakhodnov17/?originalSubdomain=ru)\*,
+[Dmitry Vetrov](https://scholar.google.com/citations?user=7HU0UoUAAAAJ&hl=en)
 
 [arXiv](https://arxiv.org/abs/2209.03695) / 
 [openreview](https://openreview.net/forum?id=edffTbw0Sws) /
